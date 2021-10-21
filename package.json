@@ -2,7 +2,7 @@
    "name": "reactita",
    "version": "1.0.0",
    "description": "reactIta",
-   "main": "index.js",
+   "main": "index.jsdf",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
    },
@@ -15,5 +15,11 @@
    "bugs": {
       "url": "https://github.com/AndreiADASKA/reactIta/issues"
    },
-   "homepage": "https://github.com/AndreiADASKA/reactIta#readme"
+   "homepage": "https://github.com/AndreiADASKA/reactIta#readme",
+   "dependencies": {
+      "prettier": "^2.4.1"
+   },
+   "devDependencies": {
+      "eslint": "^8.0.1"
+   }
 }
